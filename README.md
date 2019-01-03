@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rhoStaples/Experiment1/_apis/build/status/Experiment1-CI?branchName=master)](https://dev.azure.com/rhoStaples/Experiment1/_build/latest?definitionId=1?branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
